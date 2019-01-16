@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/VIMEMS.iml" filepath="$PROJECT_DIR$/VIMEMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vimems.iml" filepath="$PROJECT_DIR$/vimems.iml" />
     </modules>
   </component>
 </project>
