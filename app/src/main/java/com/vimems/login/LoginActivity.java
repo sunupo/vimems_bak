@@ -38,6 +38,7 @@ import static android.Manifest.permission.READ_CONTACTS;
 
 /**
  * A login screen that offers login via email/password.
+ * 为什么下载不了'com.android.support:appcompat-v7:28.+'
  */
 public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<Cursor> {
 
